@@ -1,5 +1,5 @@
 
-public class Project26 {
+public class JavaArrays {
 
 	public static void main(String[] args) {
 		
