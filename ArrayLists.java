@@ -14,8 +14,8 @@ public class ArrayLists {
 			favFoods.add("Pizza");
 			favFoods.add("Hamburgers"); 
 	
-			for (int i = 0; i < favFoods.size(); i++) {
-				System.out.println(favFoods.get(i));
+				for (int i = 0; i < favFoods.size(); i++) {
+					System.out.println(favFoods.get(i));
 			}
 		}
 	}
