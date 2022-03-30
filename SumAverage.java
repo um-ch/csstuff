@@ -1,7 +1,4 @@
-/* Alex Walker
- * CS110
- * Lab 10 Problem 1
- */
+
 public class SumAverage {
 
 	public static void main(String[] args) {
