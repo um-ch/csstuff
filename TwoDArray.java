@@ -1,7 +1,4 @@
-/* Alex Walker
- * CS110
- * Lab 10 Problem 2
- */
+
 public class TwoDArray {
 	
 	public static void sumRows(int[][] matrix) {
