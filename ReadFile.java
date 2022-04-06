@@ -1,7 +1,3 @@
-/* Alex Walker
- * CS110
- * Lab 11 Problem 1
- */
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
