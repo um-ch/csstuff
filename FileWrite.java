@@ -1,7 +1,3 @@
-/* Alex Walker
- * CS110
- * Lab 11 Problem 2
- */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
